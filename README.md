@@ -29,11 +29,12 @@ aims to address some of healthcare challenges, explore the potential of AI in th
 healthcare sector and offer innovative solutions to improve healthcare delivery 
 </p>
 <h1>Problem Statement</h1>
- High cost
+<uL>
+<li>High cost</li>
 One of the primary challenges in the health care sector is the high cost of
 medical care. Many people can not afford quality healthcare, and this limits
 their access to essential services.
- Lack of access medical records
+<li> Lack of access medical records</li>
 Another challenge is the lack of access to medical records, which can lead to
 poor health outcomes and medical error.
  Shortage of healthcare professional
@@ -46,3 +47,4 @@ respective patients.
  Medical error
 Medical error includes misdiagnosis and medication errors ,can result
 in serious harm to patients and contribute to higher healthcare costs
+</ul>
