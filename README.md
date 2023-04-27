@@ -27,4 +27,22 @@ wellbeing of people. The healthcare industry is constantly evolving, and there i
 always a need for innovative solutions to meet the challenges it faces. This project
 aims to address some of healthcare challenges, explore the potential of AI in the
 healthcare sector and offer innovative solutions to improve healthcare delivery 
-         </p>
+</p>
+<h1>Problem Statement</h1>
+ High cost
+One of the primary challenges in the health care sector is the high cost of
+medical care. Many people can not afford quality healthcare, and this limits
+their access to essential services.
+ Lack of access medical records
+Another challenge is the lack of access to medical records, which can lead to
+poor health outcomes and medical error.
+ Shortage of healthcare professional
+The shortage of healthcare professionals makes it difficult to provide timely and
+accurate diagnoses and treatments, leading to poor health outcomes.
+ Communication Gap between Patient and Doctor
+Many countries are facing a lack of healthcare workers like doctors,
+nurses ,hence this leads to an inadequate health care facilities to the
+respective patients.
+ Medical error
+Medical error includes misdiagnosis and medication errors ,can result
+in serious harm to patients and contribute to higher healthcare costs
