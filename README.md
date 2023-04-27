@@ -16,7 +16,7 @@ to the pharmacy, waits in line to give it to a pharmacist, and waits for the pha
 to fill the prescription. To improve this process, the prescriptions could be
 communicated electronically from the physician to the pharmacist, and the
 human computer interfaces for the physicians, nurses, pharmacists, and
-other healthcare professionals could be voice enabled.<hr>
+other healthcare professionals could be voice enabled.<br>
  According to Carmen Catizone of the National Association of Boards of
 Pharmacy, there are as many as 7,000 deaths from incorrect prescriptions in the
 United States each year. A Washington Post article indicates that as many
