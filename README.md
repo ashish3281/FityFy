@@ -37,14 +37,14 @@ their access to essential services.
 <li> Lack of access medical records</li>
 Another challenge is the lack of access to medical records, which can lead to
 poor health outcomes and medical error.
- Shortage of healthcare professional
+<li> Shortage of healthcare professional</li>
 The shortage of healthcare professionals makes it difficult to provide timely and
 accurate diagnoses and treatments, leading to poor health outcomes.
- Communication Gap between Patient and Doctor
+<li>Communication Gap between Patient and Doctor</li>
 Many countries are facing a lack of healthcare workers like doctors,
 nurses ,hence this leads to an inadequate health care facilities to the
 respective patients.
- Medical error
+<li> Medical error</li>
 Medical error includes misdiagnosis and medication errors ,can result
 in serious harm to patients and contribute to higher healthcare costs
 </ul>
