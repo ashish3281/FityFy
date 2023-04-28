@@ -73,21 +73,21 @@ designed to improve health outcomes, including medical records management
 </ul>
 <h1>Implementation</h1>
 <ul>
- Responsive design: The website should be optimized for different screen sizes
+<li>Responsive design:</li> The website should be optimized for different screen sizes
 and devices, including desktop computers, tablets, and smartphones.
- Clear navigation: The website should have a clear navigation menu, making it
+<li>Clear navigation: </li>The website should have a clear navigation menu, making it
 easy for patients to find different sections of the site, such as appointments,
 medical records, and educational resources.
- Online appointments: The website should allow patients to schedule
+<li> Online appointments:</li> The website should allow patients to schedule
 appointments with healthcare providers online, reducing the need for phone
 calls and in-person visits.
- Patient portal: The website should include a patient portal, where patients can
+<li> Patient portal:</li> The website should include a patient portal, where patients can
 access their medical records, test results, and other important information.
- Educational resources: The website should provide patients with educational
+<li>Educational resources:</li> The website should provide patients with educational
 resources, such as articles and videos, to help them better understand their
 health conditions and treatment options.
- Secure messaging: The website should allow patients to securely message their
+<li> Secure messaging:</li> The website should allow patients to securely message their
 healthcare providers, reducing the need for phone calls and in-person visits.
- Accessibility: The website should be designed to be accessible to people with
+<li>Accessibility:</li> The website should be designed to be accessible to people with
 disabilities, including those with visual, hearing, and motor impairments. 
 <ul>
