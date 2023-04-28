@@ -51,23 +51,23 @@ in serious harm to patients and contribute to higher healthcare costs
 
 <h1>Proposed Solution</h1>
 <ul>
- To address these challenges, this project proposes the development of a health
+ <li>To address these challenges, this project proposes the development of a health
 platform that provides affordable and accessible healthcare services to
 individuals and communities. The platform will leverage technology to connect
 patients with healthcare professionals, enabling them to receive medical advice,
 consultations, and treatment remotely. The platform will also provide a range of
 healthcare services, including virtual consultations, disease prediction, medical
-insurance cost, chatbot, prescription reader and medical store.
- The platform will allow patients to input their medical information, such as
+          insurance cost, chatbot, prescription reader and medical store.</li>
+<li> The platform will allow patients to input their medical information, such as
 symptoms, medical history, and lab results. The platform will then analyze this
 data using AI algorithms, providing healthcare professionals with insights that
 will inform their diagnoses and treatments. The platform will also use machine
 learning algorithms to identify patterns in patient data, improving the accuracy
-of disease prediction.
- The platform will be designed to be user-friendly and accessible to everyone,
+         of disease prediction.</li>
+<li> The platform will be designed to be user-friendly and accessible to everyone,
 regardless of their location or socio-economic status. The platform will be
 available via mobile and desktop devices, and patients will be able to access it
 from anywhere in the world. The platform will also have a range of features
 designed to improve health outcomes, including medical records management
-and patient education. 
+         and patient education. </li>
 </ul>
