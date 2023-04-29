@@ -94,3 +94,7 @@ disabilities, including those with visual, hearing, and motor impairments.
 
 <h1>Results </h1>
 <b>Multiple disease Prediction</b> 
+
+   ![image](https://user-images.githubusercontent.com/92047366/235314644-b576986b-1604-4bda-bb23-cf4aee32ad53.png)
+         
+         <b>FityFy Services</b>        
