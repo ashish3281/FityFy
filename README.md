@@ -91,3 +91,6 @@ healthcare providers, reducing the need for phone calls and in-person visits.
 <li>Accessibility:</li> The website should be designed to be accessible to people with
 disabilities, including those with visual, hearing, and motor impairments. 
 <ul>
+
+<h1>Results </h1>
+<b>Multiple disease Prediction</b> 
