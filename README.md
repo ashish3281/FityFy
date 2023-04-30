@@ -115,9 +115,11 @@ disabilities, including those with visual, hearing, and motor impairments.
 
          
  <h1>Future Scope</h1>
-•FityFy Jobs-Grab the job and opportunity
+         <ul>
+<li>FityFy Jobs-Grab the job and opportunity</li>
 We are working on making a portal where the doctors can enroll to FityFy and further can find out suitable jobs for themselves.
-•AI Integration-Voice Commands
+<li>AI Integration-Voice Commands</li>
 Integration of AI with our platform to enhance patient care and outcomes by providing more personalized treatment plans.
-•Fityapp-a WhatsApp for doctors
+<li>Fityapp-a WhatsApp for doctors</li>
 A social media platform where they can chat with their respective colleagues and makes a stronger bond with them.
+         </ul>
