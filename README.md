@@ -71,6 +71,10 @@ from anywhere in the world. The platform will also have a range of features
 designed to improve health outcomes, including medical records management
          and patient education. </li>
 </ul>
+<h1>Flow Chart</h1>
+
+![image](https://user-images.githubusercontent.com/92047366/235346556-1152ddc5-4f3e-4026-a190-641bc912d0b2.png)
+
 <h1>Implementation</h1>
 <ul>
 <li>Responsive design:</li> The website should be optimized for different screen sizes
