@@ -112,3 +112,12 @@ disabilities, including those with visual, hearing, and motor impairments.
 <b>FityFy Gram</b>
 
 ![image](https://user-images.githubusercontent.com/92047366/235346440-86753b9a-4453-45bc-a39b-2e8e1cf92c8c.png)
+
+         
+ <h1>Future Scope</h1>
+•FityFy Jobs-Grab the job and opportunity
+We are working on making a portal where the doctors can enroll to FityFy and further can find out suitable jobs for themselves.
+•AI Integration-Voice Commands
+Integration of AI with our platform to enhance patient care and outcomes by providing more personalized treatment plans.
+•Fityapp-a WhatsApp for doctors
+A social media platform where they can chat with their respective colleagues and makes a stronger bond with them.
