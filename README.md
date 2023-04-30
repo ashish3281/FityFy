@@ -1,7 +1,7 @@
 # FityFy
          WE ARE HERE FOR YOUR CARE
          
- ![image](https://user-images.githubusercontent.com/92047366/235346717-971144d6-fb2c-4693-886e-de5cb5aed713.png)
+ ![Screenshot (88)](https://user-images.githubusercontent.com/92047366/235346763-d7e137b2-d49a-4b46-b933-881f44f3f1f4.png)
 
 <h1>Introduction</h1>
 <p>
