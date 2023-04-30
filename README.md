@@ -1,5 +1,8 @@
 # FityFy
          WE ARE HERE FOR YOUR CARE
+         
+ ![image](https://user-images.githubusercontent.com/92047366/235346717-971144d6-fb2c-4693-886e-de5cb5aed713.png)
+
 <h1>Introduction</h1>
 <p>
 Healthcare is a field in which accurate records keeping, disease prediction and
